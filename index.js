@@ -7,11 +7,7 @@ const app = express();
 app.enable('trust proxy');
 
 const data = {
-  about:   require('./data/about.json'),
-  friends: require('./data/friends.json'),
-  anime:   require('./data/anime.json'),
-  movies:  require('./data/movies.json'),
-  nice:    require('./data/nice.json')
+  about:   require('./data/about.json')
 };
 
 app.use('/static/css', expressLess(path.resolve(__dirname, 'less')));
