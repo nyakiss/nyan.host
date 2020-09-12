@@ -1,0 +1,12 @@
+{{#each objects}}
+	<ul class="rate">
+		<h2>{{title}}</h2>
+		{{#each items}}
+			<li>
+				<span class="cpu">{{cpu}}</span>
+				<span class="ram">{{ram}}</span>
+        <span class="rom">{{rom}}</span>
+			</li>
+		{{/each}}
+	</ul>
+{{/each}}

@@ -39,132 +39,302 @@
 			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
 			"ram":	"32 GB DDR4 ECC 2133 MHz",
 			"rom":	"2x 1920 ГБ NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 2TB soft raid1"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 1920 ГБ NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 2TB soft raid1"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+		},
+		{
+			"cpu":	"E5-1650v4 [6c/12t] (3,8 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 1920 ГБ NVMe"
+		},
+		{
+			"cpu":	"2 x E5-2630v3 [16c/32t] (3,2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2 x 2TB soft raid1"
+		},
+		{
+			"cpu":	"2 x E5-2630v3 [16c/32t] (3,2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 480 SSD"
+		},
+		{
+			"cpu":	"2 x E5-2630v3 [16c/32t] (3,2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 2 ТБ SATA + 2x 480 SSD"
+		},
+		{
+			"cpu":	"2 x E5-2630v3 [16c/32t] (3,2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 1920 ГБ NVMe"
+		},
+		{
+			"cpu":	"i7-7700K [4c/8t] (4,5 GHz)",
+			"ram":	"32 GB DDR4 ECC 2133 MHz",
+			"rom":	"2 x 4TB soft raid1"
+		},
+		{
+			"cpu":	"i7-7700K [4c/8t] (4,5 GHz)",
+			"ram":	"32 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVME raid1"
+		},
+		{
+			"cpu":	"i7-7700K [4c/8t] (4,5 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2 x 4TB soft raid1"
+		},
+		{
+			"cpu":	"i7-7700K [4c/8t] (4,5 GHz)",
+			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVME raid1"
 		}
 	]},
 	{"title": "OVH Advance [1 Gbit] + vRack 100Mbps ", "items":[
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2TB SATA"
+			"cpu":	"E 2136 [6c-12t] (4.5 GHz)",
+			"ram":	"32 GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"E 2136 [6c-12t] (4.5 GHz)",
+			"ram":	"32 GB DDR4 ECC 2666MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"E 2136 [6c-12t] (4.5 GHz)",
+			"ram":	"64 GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"E 2136 [6c-12t] (4.5 GHz)",
+			"ram":	"64 GB DDR4 ECC 2666MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA"
+			"cpu":	"Epyc 7351P [16c-32t] (2.9 GHz)",
+			"ram":	"128 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"Epyc 7351P [16c-32t] (2.9 GHz)",
+			"ram":	"128 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"Epyc 7351P [16c-32t] (2.9 GHz)",
+			"ram":	"256 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"Epyc 7351P [16c-32t] (2.9 GHz)",
+			"ram":	"256 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
+		},
+		{
+			"cpu":	"Epyc 7451 [24c-48t] (3.2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
+		},
+		{
+			"cpu":	"Epyc 7451 [24c-48t] (3.2 GHz)",
+			"ram":	"128 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
+		},
+		{
+			"cpu":	"Epyc 7451 [24c-48t] (3.2 GHz)",
+			"ram":	"256 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
+		},
+		{
+			"cpu":	"Epyc 7451 [24c-48t] (3.2 GHz)",
+			"ram":	"256 GB DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Gold 5118 [24c-48t] (3.2 GHz)",
+			"ram":	"96 DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Gold 5118 [24c-48t] (3.2 GHz)",
+			"ram":	"96 DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Gold 5118 [24c-48t] (3.2 GHz)",
+			"ram":	"192 DDR4 ECC 2400MHz",
+			"rom":	"2x 500 NVMe softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Gold 5118 [24c-48t] (3.2 GHz)",
+			"ram":	"192 DDR4 ECC 2400MHz",
+			"rom":	"2x 4 ТБ SATA softraid1"
 		}
 	]},
 	{"title": "OVH Infrastructure [2 Gbit] [2Gbps vRack] ", "items":[
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2TB SATA"
+			"cpu":	"Xeon-E 2274G [4c-8t] (4.9GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"2x 960 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"Xeon-E 2274G [4c-8t] (4.9GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"Xeon-E 2274G [4c-8t] (4.9GHz)",
+			"ram":	"64GB DDR4 ECC 2666MHz",
+			"rom":	"2x 960 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"Xeon-E 2274G [4c-8t] (4.9GHz)",
+			"ram":	"64GB DDR4 ECC 2666MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA"
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"2x 960 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"64GB DDR4 ECC 2666MHz",
+			"rom":	"2x 960 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"64GB DDR4 ECC 2666MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"128GB DDR4 ECC 2666MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"Xeon-E 2288G [8c-16t] (5GHz)",
+			"ram":	"128GB DDR4 ECC 2666MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"128GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"128GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"256GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"256GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"512GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"AMD Epyc 7371 [16c-32t] (3.8GHz)",
+			"ram":	"512GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"96GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"96GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"192GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"192GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"384GB DDR4 ECC 2400MHz",
+			"rom":	"2x 960 NVMe softraid1"
+		},
+		{
+			"cpu":	"2x Xeon Silver 4214 [24c-48t] (3.2GHz)",
+			"ram":	"384GB DDR4 ECC 2400MHz",
+			"rom":	"3x 4ТБ HDD softraid1"
 		}
 	]},
 	{"title": "OVH Game [1 Gbit] [not vRack]", "items":[
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2TB SATA"
+			"cpu":	"Ryzen 5 3600X [6c-12t] (4.4GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"Ryzen 5 3600X [6c-12t] (4.4GHz)",
+			"ram":	"64GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"Ryzen 7 3800X [8c-16t] (4.5GHz)",
+			"ram":	"32GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
-		},
-		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA"
-		},
-		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
-		},
-		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
-		},
-		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"Ryzen 7 3800X [8c-16t] (4.5GHz)",
+			"ram":	"128GB DDR4 ECC 2666MHz",
+			"rom":	"2x 500 NVMe softraid1"
 		}
 	]},
 	{"title": "Hetzner [1 Gbit] [vRack]", "items":[
