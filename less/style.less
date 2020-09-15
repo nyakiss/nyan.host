@@ -24,22 +24,33 @@
   text-transform: none;
 }
 body{
-	background: #ccc;
+	background: #eee;
 	font: 1rem Roboto;
 }
 main{
   ul{
-    margin: 0;
     padding: 0;
     list-style: none;
-    font: 1rem Roboto Condensed;
+    font: 1.4rem Roboto Condensed;
+    width: 80vw;
+    margin: 0 auto;
     h2{
-      margin: 10px 0;
-      font: 1.4rem Roboto;
+      padding: 20px 0;
+      font: 1.8rem Roboto;
+      text-align: center;
+      color: #fff;
+      background: #aaa;
+      margin: 0;
     }
     li{
+      color: #666;
+      background: #fff;
+      border-bottom: 2px dotted #ccc;
+      display: grid;
+	    grid-template-columns: 40% 1fr 1fr 1fr;
       span{
-
+        padding: 1rem;
+        display: flex;
       }
     }
   }

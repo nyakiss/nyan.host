@@ -339,44 +339,465 @@
 	]},
 	{"title": "Hetzner [1 Gbit] [vRack]", "items":[
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2TB SATA"
+			"cpu":	"[2019] i7-6700 Quadcore Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 4 TB SATA"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"[2019] i7-6700 Quadcore Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 512 NVMe"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 TB SATA"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 TB SATA"
+		},
+		{
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 TB SATA"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 TB SATA"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2019] AMD EPYC 7401P [24c-48t] 'Naples' (Zen)",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2019] 2x Intel Xeon Gold 6130 [32c-64t] (3.7GHz)",
+			"ram":	"64 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9"
+		},
+		{
+			"cpu":	"[2019] 2x Intel Xeon Silver 4114 [20c-40t] (2.2GHz)",
+			"ram":	"64 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9"
+		},
+		{
+			"cpu":	"[2019] AMD EPYC 7551P [32c-64t] (2.2GHz)",
+			"ram":	"128 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9"
+		},
+		{
+			"cpu":	"i7-4770 Quad-Core",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 240 GB SSD"
+		},
+		{
+			"cpu":	"[2019] E3-1246v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 240 GB SSD"
+		},
+		{
+			"cpu":	"[2019] E3-1246v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 2 ТБ SATA"
+		},
+		{
+			"cpu":	"[2019] E3-1275v6",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 512 M.2 NVME"
+		},
+		{
+			"cpu":	"[2019] E3-1275v6",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 4 ТБ SATA"
+		},
+		{
+			"cpu":	"[2019] i7-6700",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 250 SSD"
+		},
+		{
+			"cpu":	"[2020] Ryzen 5 3600 [6c-12t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"NVMe 2x 512 ГБ"
+		},
+		{
+			"cpu":	"[2020] Ryzen 7 3700X [8c-16t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"NVMe 2x 1 ТБ"
+		},
+		{
+			"cpu":	"[2020] Ryzen 7 3700X [8c-16t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA"
+		},
+		{
+			"cpu":	"[2020] Ryzen 9 3900 [12c-24t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"NVMe 2x 2 ТБ"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"3.84 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"1.92 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"12 TB SATA"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"3.84 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"1.92 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"12 TB SATA"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"3.84 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"960 ГБ NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"1.92 TB NVMe"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"12 TB SATA"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen 7 1700X [8c-16t] (3.8GHz)",
+			"ram":	"64 GB DDR4",
+			"rom":	"2x 512 SSD"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 960 SSD"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 2ТБ SSD"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 8TB HDD"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"4 x 10 TB"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"128 GB DDR4",
+			"rom":	"10 x 10 TB"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"256 GB DDR4",
+			"rom":	"15 x 10 TB"
+		}
+	]},
+	{"title": "OVH VPS [2 Gbps] [2020]", "items":[
+		{
+			"cpu":	"1 vCore",
+			"ram":	"2 GB",
+			"rom":	"40 GB NVMe",
+			"spd":	"250Mbps"
+		},
+		{
+			"cpu":	"2 vCore",
+			"ram":	"4 GB",
+			"rom":	"80 GB NVMe",
+			"spd":	"500Mbps"
+		},
+		{
+			"cpu":	"4 vCore",
+			"ram":	"8 GB",
+			"rom":	"160 GB NVMe",
+			"spd":	"1000Mbps"
+		},
+		{
+			"cpu":	"1 vCore",
+			"ram":	"2 GB",
+			"rom":	"20 GB NVMe",
+			"spd":	"100Mbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"160 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"160 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"160 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"320 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"320 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"320 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"640 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"640 GB NVMe",
+			"spd":	"2Gbps"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"640 GB NVMe",
+			"spd":	"2Gbps"
+		}
+	]},
+	{"title": "Kimsufi 2018 (установка 10 евро 950р) [100 Mbps]", "items":[
+		{
+			"cpu":	"Xeon W3520 [4c-8t]",
+			"ram":	"32 GB DDR3",
 			"rom":	"2x 2 ТБ SATA"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"64 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 450 NVMe"
+			"cpu":	"Xeon W3520 [4c-8t]",
+			"ram":	"16 GB DDR3",
+			"rom":	"2x 2 ТБ SATA"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 2 ТБ SATA + 2x 450 NVMe"
+			"cpu":	"Xeon W3520 [4c-8t]",
+			"ram":	"16 GB DDR3",
+			"rom":	"2x 240/300 SSD"
 		},
 		{
-			"cpu":	"E3-1230v6 [4c/8t] (4,2 GHz)",
-			"ram":	"32 GB DDR4 ECC 2133 MHz",
-			"rom":	"2x 1920 ГБ NVMe"
+			"cpu":	"Intel i3-21xx [2c-4t]",
+			"ram":	"8 GB DDR3",
+			"rom":	"2 ТБ SATA"
+		},
+		{
+			"cpu":	"Intel i7-9xx [4c-8t]",
+			"ram":	"16 GB DDR3",
+			"rom":	"2 ТБ SATA"
+		},
+		{
+			"cpu":	"Intel i5-7xx [4c-4t]",
+			"ram":	"16 GB DDR3",
+			"rom":	"2 ТБ SATA"
+		},
+		{
+			"cpu":	"Intel i5-2300/2400/3570S [4c-4t]",
+			"ram":	"16 GB DDR3",
+			"rom":	"2 ТБ SATA"
+		},
+		{
+			"cpu":	"Atom N2800 [2c-4t]",
+			"ram":	"4 GB DDR3",
+			"rom":	"2x 2 ТБ SATA"
+		},
+		{
+			"cpu":	"Atom N2800 [2c-4t]",
+			"ram":	"4 GB DDR3",
+			"rom":	"2 ТБ SATA"
+		},
+		{
+			"cpu":	"Atom N2800 [2c-4t]",
+			"ram":	"2 GB DDR3",
+			"rom":	"500 ГБ SATA"
+		}
+	]},
+	{"title": "SoYouStart 2018 [250-500 Mbps]", "items":[
+		{
+			"cpu":	"E3-1231v3 [4c-8t] (3,8GHz)",
+			"ram":	"32 GB DDR3 ECC 1600 MHz",
+			"rom":	"4x 2TB soft raid1"
+		},
+		{
+			"cpu":	"E3-1231v3 [4c-8t] (3,8GHz)",
+			"ram":	"32 GB DDR3 ECC 1600 MHz",
+			"rom":	"2x 480 ssd soft raid1"
+		},
+		{
+			"cpu":	"Intel i7-4790K [4c-8t] (4,4GHz)",
+			"ram":	"16 GB DDR3 1333 MHz",
+			"rom":	"120 SSD / Anti-DDoS-GAME"
+		},
+		{
+			"cpu":	"Intel i7-4790K [4c-8t] (4,4GHz)",
+			"ram":	"32 GB DDR3 1333 MHz",
+			"rom":	"240 SSD / Anti-DDoS-GAME"
+		},
+		{
+			"cpu":	"i7-6700K [4c-8t] (4.2GHz)",
+			"ram":	"64 GB DDR4 2400MHz",
+			"rom":	"480 SSD"
+		},
+		{
+			"cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+			"ram":	"16 GB DDR3 1333 MHz",
+			"rom":	"3x 2 ТБ soft raid1"
+		},
+		{
+			"cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+			"ram":	"32 GB DDR3 1333 MHz",
+			"rom":	"3x 2 ТБ soft raid1"
+		},
+		{
+			"cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+			"ram":	"32 GB DDR3 1333 MHz",
+			"rom":	"2x 480 SSD soft raid1"
+		},
+		{
+			"cpu":	"E5-1650v3 [4c-8t] (3.8GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"4x 2 ТБ soft raid1"
+		},
+		{
+			"cpu":	"E5-1650v3 [4c-8t] (3.8GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"2x 480 SSD soft raid1"
+		},
+		{
+			"cpu":	"E5-1630v3 [4c-8t] (3.8GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"4x 2 ТБ soft raid1"
+		},
+		{
+			"cpu":	"E5-1630v3 [4c-8t] (3.8GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"2x 480 SSD soft raid1"
+		},
+		{
+			"cpu":	"Xeon D-1540 [8c-16t] (2.0GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVMe softraid1"
+		},
+		{
+			"cpu":	"Xeon D-1540 [8c-16t] (2.0GHz)",
+			"ram":	"64 DDR4 ECC 2133 MHz",
+			"rom":	"4x 2 ТБ softraid1"
+		}
+	]},
+	{"title": "OVH AU SGP", "items":[
+		{
+			"cpu":	"E3-1270v6 [4c-8t]",
+			"ram":	"32 DDR4 ECC 2133 MHz",
+			"rom":	"2x 4 ТБ softraid1"
+		},
+		{
+			"cpu":	"E3-1270v6 [4c-8t]",
+			"ram":	"32 DDR4 ECC 2133 MHz",
+			"rom":	"2x 450 NVMe softraid1"
+		},
+		{
+			"cpu":	"E3-1270v6 [4c-8t]",
+			"ram":	"32 DDR4 ECC 2133 MHz",
+			"rom":	"2x 1920 NVMe softraid1"
+		},
+		{
+			"cpu":	"i7-6700k [4c-8t]",
+			"ram":	"32 DDR4 ECC 2133 MHz",
+			"rom":	"2x 1920 NVMe softraid1"
 		}
 	]}
 ]
