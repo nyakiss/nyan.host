@@ -1,0 +1,82 @@
+[
+  {"title": "OVH VPS [до 2Gbps] [2020]", "items":[
+		{
+			"cpu":	"1 vCore",
+			"ram":	"2 GB",
+			"rom":	"40 GB NVMe / 250Mbps",
+			"prs":	"525"
+		},
+		{
+			"cpu":	"2 vCore",
+			"ram":	"4 GB",
+			"rom":	"80 GB NVMe / 500Mbps",
+			"prs":	"1050"
+		},
+		{
+			"cpu":	"4 vCore",
+			"ram":	"8 GB",
+			"rom":	"160 GB NVMe / 1Gbps",
+			"prs":	"2100"
+		},
+		{
+			"cpu":	"1 vCore",
+			"ram":	"2 GB",
+			"rom":	"20 GB NVMe / 100Mbps",
+			"prs":	"315"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"160 GB NVMe / 2Gbps",
+			"prs":	"3150"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"160 GB NVMe / 2Gbps",
+			"prs":	"4200"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"160 GB NVMe / 2Gbps",
+			"prs":	"6300"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"320 GB NVMe / 2Gbps",
+			"prs":	"4725"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"320 GB NVMe / 2Gbps",
+			"prs":	"5250"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"320 GB NVMe / 2Gbps",
+			"prs":	"7875"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"8 GB",
+			"rom":	"640 GB NVMe / 2Gbps",
+			"prs":	"8400"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"16 GB",
+			"rom":	"640 GB NVMe / 2Gbps",
+			"prs":	"8925"
+		},
+		{
+			"cpu":	"8 vCore",
+			"ram":	"32 GB",
+			"rom":	"640 GB NVMe / 2Gbps",
+			"prs":	"10500"
+		}
+	]}
+]

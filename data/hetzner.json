@@ -1,0 +1,286 @@
+[
+  {"title": "Hetzner [1 Gbit] [vRack]", "items":[
+		{
+			"cpu":	"[2019] i7-6700 Quadcore Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 4 TB SATA",
+			"prs":	"4095"
+		},
+		{
+			"cpu":	"[2019] i7-6700 Quadcore Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 512 NVMe",
+			"prs":	"4095"
+		},
+		{
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 TB SATA",
+			"prs":	"6195"
+		},
+		{
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe",
+			"prs":	"6195"
+		},
+		{
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 TB SATA",
+			"prs":	"8400"
+		},
+		{
+			"cpu":	"[2019] i7-8700 Hexa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe",
+			"prs":	"8400"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 TB SATA",
+			"prs":	"7245"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe",
+			"prs":	"7245"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 TB SATA",
+			"prs":	"9450"
+		},
+		{
+			"cpu":	"[2019] i9-9900k Octa-Core Skylake",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 1 ТБ NVMe",
+			"prs":	"9450"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA",
+			"prs":	"8295"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe",
+			"prs":	"8295"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA",
+			"prs":	"11550"
+		},
+		{
+			"cpu":	"[2019] Xeon E-2176G",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe",
+			"prs":	"11550"
+		},
+		{
+			"cpu":	"[2019] AMD EPYC 7401P [24c-48t] 'Naples' (Zen)",
+			"ram":	"128 GB DDR4",
+			"rom":	"2 x 960 ГБ NVMe",
+			"prs":	"14700"
+		},
+		{
+			"cpu":	"[2019] 2x Intel Xeon Gold 6130 [32c-64t] (3.7GHz)",
+			"ram":	"64 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9",
+			"prs":	"22995"
+		},
+		{
+			"cpu":	"[2019] 2x Intel Xeon Silver 4114 [20c-40t] (2.2GHz)",
+			"ram":	"64 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9",
+			"prs":	"16695"
+		},
+		{
+			"cpu":	"[2019] AMD EPYC 7551P [32c-64t] (2.2GHz)",
+			"ram":	"128 GB DDR4 ECC",
+			"rom":	"ДИСКИ ОТДЕЛЬНО до 8 слотов / iDRAC9",
+			"prs":	"19845"
+		},
+		{
+			"cpu":	"i7-4770 Quad-Core",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 240 GB SSD",
+			"prs":	"3150"
+		},
+		{
+			"cpu":	"[2019] E3-1246v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 240 GB SSD",
+			"prs":	"3150"
+		},
+		{
+			"cpu":	"[2019] E3-1246v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"2 x 2 ТБ SATA",
+			"prs":	"2625"
+		},
+		{
+			"cpu":	"[2019] E3-1275v6",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 512 M.2 NVME",
+			"prs":	"5250"
+		},
+		{
+			"cpu":	"[2019] E3-1275v6",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 4 ТБ SATA",
+			"prs":	"5250"
+		},
+		{
+			"cpu":	"[2019] i7-6700",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 250 SSD",
+			"prs":	"4200"
+		},
+		{
+			"cpu":	"[2020] Ryzen 5 3600 [6c-12t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"NVMe 2x 512 ГБ",
+			"prs":	"4095"
+		},
+		{
+			"cpu":	"[2020] Ryzen 7 3700X [8c-16t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"NVMe 2x 1 ТБ",
+			"prs":	"6195"
+		},
+		{
+			"cpu":	"[2020] Ryzen 7 3700X [8c-16t]",
+			"ram":	"64 GB DDR4",
+			"rom":	"2 x 8 ТБ SATA",
+			"prs":	"6195"
+		},
+		{
+			"cpu":	"[2020] Ryzen 9 3900 [12c-24t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"NVMe 2x 2 ТБ",
+			"prs":	"9345"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"3.84 TB NVMe",
+			"prs":	"17220"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"960 ГБ NVMe",
+			"prs":	"13860"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"1.92 TB NVMe",
+			"prs":	"15120"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"12 TB SATA",
+			"prs":	"15330"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"3.84 TB NVMe",
+			"prs":	"22575"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"960 ГБ NVMe",
+			"prs":	"19320"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"1.92 TB NVMe",
+			"prs":	"20370"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"256 GB DDR4",
+			"rom":	"12 TB SATA",
+			"prs":	"20370"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"3.84 TB NVMe",
+			"prs":	"32655"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"960 ГБ NVMe",
+			"prs":	"29400"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"1.92 TB NVMe",
+			"prs":	"30450"
+		},
+		{
+			"cpu":	"[2020] EPYC 7502P 32 Core (Zen2) [32c-64t]",
+			"ram":	"512 GB DDR4",
+			"rom":	"12 TB SATA",
+			"prs":	"30450"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen 7 1700X [8c-16t] (3.8GHz)",
+			"ram":	"64 GB DDR4",
+			"rom":	"2x 512 SSD",
+			"prs":	"6300"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 960 SSD",
+			"prs":	"14700"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 2ТБ SSD",
+			"prs":	"18900"
+		},
+		{
+			"cpu":	"[2020] AMD Ryzen Threadripper 2950X [16c-32t]",
+			"ram":	"128 GB DDR4",
+			"rom":	"2x 8TB HDD",
+			"prs":	"17850"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"32 GB DDR4",
+			"rom":	"4 x 10 TB",
+			"prs":	"6720"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"128 GB DDR4",
+			"rom":	"10 x 10 TB",
+			"prs":	"16695"
+		},
+		{
+			"cpu":	"[2020] E5-1270v3",
+			"ram":	"256 GB DDR4",
+			"rom":	"15 x 10 TB",
+			"prs":	"27195"
+		}
+	]}  
+]

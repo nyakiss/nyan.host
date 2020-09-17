@@ -1,4 +1,4 @@
-{{#each objects}}
+{{#each about}}
 	<ul class="rate">
 		<h2>{{title}}</h2>
 		{{#each items}}
@@ -6,7 +6,6 @@
 				<span class="cpu">{{cpu}}</span>
 				<span class="ram">{{ram}}</span>
         <span class="rom">{{rom}}</span>
-				{{#if spd}}<span class="spd">{{spd}}</span>{{/if}}
 				<span class="prs">{{prs}}₽</span>
 				{{#if 2prs}}<span class="2prs">{{2prs}}₽</span>{{/if}}
 			</li>

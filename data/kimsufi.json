@@ -1,0 +1,64 @@
+[
+  {"title": "Kimsufi 2018 (установка 10 евро 950р) [100 Mbps]", "items":[
+    {
+      "cpu":	"Xeon W3520 [4c-8t]",
+      "ram":	"32 GB DDR3",
+      "rom":	"2x 2 ТБ SATA",
+      "prs":	"2625"
+    },
+    {
+      "cpu":	"Xeon W3520 [4c-8t]",
+      "ram":	"16 GB DDR3",
+      "rom":	"2x 2 ТБ SATA",
+      "prs":	"2100"
+    },
+    {
+      "cpu":	"Xeon W3520 [4c-8t]",
+      "ram":	"16 GB DDR3",
+      "rom":	"2x 240/300 SSD",
+      "prs":	"1785"
+    },
+    {
+      "cpu":	"Intel i3-21xx [2c-4t]",
+      "ram":	"8 GB DDR3",
+      "rom":	"2 ТБ SATA",
+      "prs":	"1575"
+    },
+    {
+      "cpu":	"Intel i7-9xx [4c-8t]",
+      "ram":	"16 GB DDR3",
+      "rom":	"2 ТБ SATA",
+      "prs":	"1680"
+    },
+    {
+      "cpu":	"Intel i5-7xx [4c-4t]",
+      "ram":	"16 GB DDR3",
+      "rom":	"2 ТБ SATA",
+      "prs":	"1575"
+    },
+    {
+      "cpu":	"Intel i5-2300/2400/3570S [4c-4t]",
+      "ram":	"16 GB DDR3",
+      "rom":	"2 ТБ SATA",
+      "prs":	"1995"
+    },
+    {
+      "cpu":	"Atom N2800 [2c-4t]",
+      "ram":	"4 GB DDR3",
+      "rom":	"2x 2 ТБ SATA",
+      "prs":	"1470"
+    },
+    {
+      "cpu":	"Atom N2800 [2c-4t]",
+      "ram":	"4 GB DDR3",
+      "rom":	"2 ТБ SATA",
+      "prs":	"840"
+    },
+    {
+      "cpu":	"Atom N2800 [2c-4t]",
+      "ram":	"2 GB DDR3",
+      "rom":	"500 ГБ SATA",
+      "prs":	"420"
+    }
+  ]}
+]

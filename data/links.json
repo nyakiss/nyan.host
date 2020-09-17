@@ -1,0 +1,42 @@
+[
+  {
+  "link":	"rise",
+  "name": "RISE"
+  },
+  {
+    "link":	"OVH_Advance",
+    "name": "OVH Advance"
+  },
+  {
+    "link":	"OVH_Infrastructure",
+    "name": "OVH Infrastructure"
+  },
+  {
+    "link":	"OVH_Game",
+    "name": "OVH Game"
+  },
+  {
+    "link":	"Hetzner",
+    "name": "Hetzner"
+  },
+  {
+    "link":	"OVH_VPS",
+    "name": "OVH VPS"
+  },
+  {
+    "link":	"Kimsufi",
+    "name": "Kimsufi"
+  },
+  {
+    "link":	"SoYouStart",
+    "name": "SoYouStart"
+  },
+  {
+    "link":	"OVH_AU_SGP",
+    "name": "OVH AU SGP"
+  },
+  {
+    "link":	"OVH_US",
+    "name": "OVH US"
+  }
+]

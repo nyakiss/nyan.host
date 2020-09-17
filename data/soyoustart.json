@@ -1,0 +1,88 @@
+[
+  {"title": "SoYouStart 2018 [250 Mbps]", "items":[
+    {
+      "cpu":	"E3-1231v3 [4c-8t] (3,8GHz)",
+      "ram":	"32 GB DDR3 ECC 1600MHz",
+      "rom":	"4x 2TB soft raid1",
+      "prs":	"5250"
+    },
+    {
+      "cpu":	"E3-1231v3 [4c-8t] (3,8GHz)",
+      "ram":	"32 GB DDR3 ECC 1600MHz",
+      "rom":	"2x 480 ssd soft raid1",
+      "prs":	"5250"
+    },
+    {
+      "cpu":	"Intel i7-4790K [4c-8t] (4,4GHz)",
+      "ram":	"16 GB DDR3 1333MHz",
+      "rom":	"120 SSD / Anti-DDoS-GAME",
+      "prs":	"3675"
+    },
+    {
+      "cpu":	"Intel i7-4790K [4c-8t] (4,4GHz)",
+      "ram":	"32 GB DDR3 1333MHz",
+      "rom":	"240 SSD / Anti-DDoS-GAME",
+      "prs":	"4725"
+    },
+    {
+      "cpu":	"i7-6700K [4c-8t] (4.2GHz)",
+      "ram":	"64 GB DDR4 2400MHz",
+      "rom":	"480 SSD",
+      "prs":	"5775"
+    },
+    {
+      "cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+      "ram":	"16 GB DDR3 1333MHz",
+      "rom":	"3x 2 ТБ soft raid1",
+      "prs":	"3675"
+    },
+    {
+      "cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+      "ram":	"32 GB DDR3 1333MHz",
+      "rom":	"3x 2 ТБ soft raid1",
+      "prs":	"4200"
+    },
+    {
+      "cpu":	"Xeon E3-1225v2 [4c-8t] (3.2GHz)",
+      "ram":	"32 GB DDR3 1333MHz",
+      "rom":	"2x 480 SSD soft raid1",
+      "prs":	"4200"
+    },
+    {
+      "cpu":	"E5-1650v3 [4c-8t] (3.8GHz)",
+      "ram":	"64 GB DDR4 ECC 2133MHz",
+      "rom":	"4x 2 ТБ soft raid1",
+      "prs":	"7350"
+    },
+    {
+      "cpu":	"E5-1650v3 [4c-8t] (3.8GHz)",
+      "ram":	"64 GB GB DDR4 ECC 2133MHz",
+      "rom":	"2x 480 SSD soft raid1",
+      "prs":	"7350"
+    },
+    {
+      "cpu":	"E5-1630v3 [4c-8t] (3.8GHz)",
+      "ram":	"64 GB DDR4 ECC 2133MHz",
+      "rom":	"4x 2 ТБ soft raid1",
+      "prs":	"6300"
+    },
+    {
+      "cpu":	"E5-1630v3 [4c-8t] (3.8GHz)",
+      "ram":	"64 GB DDR4 ECC 2133MHz",
+      "rom":	"2x 480 SSD soft raid1",
+      "prs":	"6300"
+    },
+    {
+      "cpu":	"Xeon D-1540 [8c-16t] (2.0GHz)",
+      "ram":	"64 GB DDR4 ECC 2133MHz",
+      "rom":	"2x 450 NVMe softraid1",
+      "prs":	"5775"
+    },
+    {
+      "cpu":	"Xeon D-1540 [8c-16t] (2.0GHz)",
+      "ram":	"64 GB DDR4 ECC 2133MHz",
+      "rom":	"4x 2 ТБ softraid1",
+      "prs":	"5775"
+    }
+  ]}
+]
