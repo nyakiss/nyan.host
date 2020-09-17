@@ -1,0 +1,232 @@
+[
+  {"title": "OVH Advance", "items":[
+    {
+      "opt":	"2x 1TB SSD NVMe Soft RAID",
+      "prs":	"2520",
+      "prs2":	"2310"
+    },
+    {
+      "opt":	"2x 4TB HDD SATA + 2× 500GB SSD NVMe Soft RAID",
+      "prs":	"3150",
+      "prs2":	"2835"
+    },
+    {
+      "opt":	"3x 1TB SSD NVMe Soft RAID",
+      "prs":	"3780",
+      "prs2":	"3465"
+    },
+    {
+      "opt":	"3x 4TB HDD SATA Hard RAID",
+      "prs":	"4200",
+      "prs2":	"3870"
+    },
+    {
+      "opt":	"2x 1920GB SSD NVMe Soft RAID",
+      "prs":	"4620",
+      "prs2":	"4200"
+    },
+    {
+      "opt":	"4x 960GB SSD SATA Hard RAID",
+      "prs":	"6300",
+      "prs2":	"5670"
+    },
+    {
+      "opt":	"1Gbps unmetered and guaranteed [Public network]",
+      "prs":	"7350"
+    },
+    {
+      "opt":	"2Gbps unmetered and guaranteed [Public network]",
+      "prs":	"12600"
+    },
+    {
+      "opt":	"3Gbps unmetered and guaranteed [Public network]",
+      "prs":	"19950"
+    },
+  ]},
+  {"title": "OVH Infrastructure", "items":[
+    {
+      "opt":	"2× 960GB SSD NVMe + 2× 6TB HDD SATA Soft RAID",
+      "prs":	"3675",
+      "prs2":	"3360"
+    },
+    {
+      "opt":	"2× 1920GB SSD NVMe Soft RAID",
+      "prs":	"4620",
+      "prs2":	"4200"
+    },
+    {
+      "opt":	"3× 6TB HDD SATA Hard RAID",
+      "prs":	"4830",
+      "prs2":	"4410"
+    },
+    {
+      "opt":	"3× 1920GB SSD NVMe Soft RAID",
+      "prs":	"6930",
+      "prs2":	"6300"
+    },
+    {
+      "opt":	"4× 960GB SSD SATA Hard RAID",
+      "prs":	"6300",
+      "prs2":	"5670"
+    },
+    {
+      "opt":	"3× 3840GB SSD NVMe Soft RAID",
+      "prs":	"15120",
+      "prs2":	"13650"
+    },
+    {
+      "opt":	"2Gbps unmetered [Public network]",
+      "prs":	"12600"
+    },
+    {
+      "opt":	"3Gbps unmetered [Public network]",
+      "prs":	"19950"
+    },
+    {
+      "opt":	"4Gbps unmetered [Public network]",
+      "prs":	"26250"
+    }
+  ]},
+  {"title": "Hetzner", "items":[
+    {
+      "opt":	"[Hetzner] 960 GB NVMe SSD Datacenter Edition",
+      "prs":	"1785"
+    },
+    {
+      "opt":	"[Hetzner] 1.92 TB NVMe SSD Datacenter Edition",
+      "prs":	"2835"
+    },
+    {
+      "opt":	"[Hetzner] 3.84 TB NVMe SSD Datacenter Edition",
+      "prs":	"5040"
+    },
+    {
+      "opt":	"[Hetzner] 480 GB NVMe SSD 3D XPoint",
+      "prs":	"4935"
+    },
+    {
+      "opt":	"[Hetzner] 240 GB SATA SSD",
+      "prs":	"420"
+    },
+    {
+      "opt":	"[Hetzner] 500 GB SATA SSD",
+      "prs":	"630"
+    },
+    {
+      "opt":	"[Hetzner] 1 TB SATA SSD",
+      "prs":	"1155"
+    },
+    {
+      "opt":	"[Hetzner] 240 GB SATA SSD Datacenter Edition",
+      "prs":	"525"
+    },
+    {
+      "opt":	"[Hetzner] 480 GB SATA SSD Datacenter Edition",
+      "prs":	"735"
+    },
+    {
+      "opt":	"[Hetzner] 960 GB SATA SSD Datacenter Edition",
+      "prs":	"1260"
+    },
+    {
+      "opt":	"[Hetzner] 1.92 TB SATA SSD Datacenter Edition",
+      "prs":	"2310"
+    },
+    {
+      "opt":	"[Hetzner] 3.84 TB SATA SSD Datacenter Edition",
+      "prs":	"4620"
+    },
+    {
+      "opt":	"[Hetzner] 2 TB SATA Enterprise hard drive",
+      "prs":	"1050"
+    },
+    {
+      "opt":	"[Hetzner] 4 TB SATA Enterprise hard drive",
+      "prs":	"1365"
+    },
+    {
+      "opt":	"[Hetzner] 6 TB SATA Enterprise hard drive",
+      "prs":	"1575"
+    },
+    {
+      "opt":	"[Hetzner] 8 TB SATA Enterprise hard drive",
+      "prs":	"1890"
+    },
+    {
+      "opt":	"[Hetzner] 10 TB SATA Enterprise hard drive",
+      "prs":	"2100"
+    },
+    {
+      "opt":	"[Hetzner] 12 TB SATA Enterprise hard drive",
+      "prs":	"2835"
+    }
+  ]},
+  {"title": "OVH US2", "items":[
+    {
+      "opt":	"2x 1TB SSD NVMe Soft RAID",
+      "prs":	"2940"
+    },
+    {
+      "opt":	"2x 4TB HDD SATA + 2× 500GB SSD NVMe Soft RAID",
+      "prs":	"3675"
+    },
+    {
+      "opt":	"3x 1TB SSD NVMe Soft RAID",
+      "prs":	"4410"
+    },
+    {
+      "opt":	"3x 4TB HDD SATA Hard RAID",
+      "prs":	"5355"
+    },
+    {
+      "opt":	"2x 1920GB SSD NVMe Soft RAID",
+      "prs":	"4725"
+    },
+    {
+      "opt":	"4x 960GB SSD SATA Hard RAID",
+      "prs":	"7035"
+    }
+  ]},
+	{"title": "OVH US3", "items":[
+		{
+			"opt":	"2× 960GB SSD NVMe + 2× 6TB HDD SATA Soft RAID",
+			"prs":	"4095"
+		},
+    {
+			"opt":	"2× 1920GB SSD NVMe Soft RAID",
+			"prs":	"5145"
+		},
+    {
+			"opt":	"3× 6TB HDD SATA Hard RAID",
+			"prs":	"5460"
+		},
+    {
+			"opt":	"3× 1920GB SSD NVMe Soft RAID",
+			"prs":	"7035"
+		},
+    {
+			"opt":	"4× 960GB SSD SATA Hard RAID",
+			"prs":	"7770"
+		},
+    {
+			"opt":	"3× 3840GB SSD NVMe Soft RAID",
+			"prs":	"16905"
+		},
+    {
+			"opt":	"2Gbps unmetered [Public network]",
+			"prs":	"14385"
+		},
+    {
+			"opt":	"3Gbps unmetered [Public network]",
+			"prs":	"22785"
+		},
+    {
+			"opt":	"4Gbps unmetered [Public network]",
+			"prs":	"30030"
+		},
+    {
+			"opt":	"",
+			"prs":	""
+		},
+  ]}
+]
