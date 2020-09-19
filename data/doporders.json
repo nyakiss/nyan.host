@@ -41,7 +41,7 @@
     {
       "opt":	"3Gbps unmetered and guaranteed [Public network]",
       "prs":	"19950"
-    },
+    }
   ]},
   {"title": "OVH Infrastructure", "items":[
     {
@@ -223,10 +223,6 @@
     {
 			"opt":	"4Gbps unmetered [Public network]",
 			"prs":	"30030"
-		},
-    {
-			"opt":	"",
-			"prs":	""
-		},
+		}
   ]}
 ]

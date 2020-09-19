@@ -8,7 +8,15 @@ app.enable('trust proxy');
 
 const data = {
   about:       require('./data/about.json'),
-  links:       require('./data/links.json')
+  links:       require('./data/links.json'),
+  doporders:   require('./data/doporders.json'),
+  hetzner:     require('./data/hetzner.json'),
+  kimsufi:     require('./data/kimsufi.json'),
+  ovh:         require('./data/ovh.json'),
+  ovhausgp:    require('./data/ovhausgp.json'),
+  ovhus:       require('./data/ovhus.json'),
+  ovhvps:      require('./data/ovhvps.json'),
+  soyoustart:  require('./data/soyoustart.json')
 };
 
 app.use('/static/css', expressLess(path.resolve(__dirname, 'less')));
