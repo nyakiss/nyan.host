@@ -1,5 +1,5 @@
 [
-  {"title": "OVH Advance", "items":[
+  {"OVHA": "OVH Advance", "items":[
     {
       "opt":	"2x 1TB SSD NVMe Soft RAID",
       "prs":	"2520",
@@ -43,7 +43,7 @@
       "prs":	"19950"
     }
   ]},
-  {"title": "OVH Infrastructure", "items":[
+  {"OVHI": "OVH Infrastructure", "items":[
     {
       "opt":	"2× 960GB SSD NVMe + 2× 6TB HDD SATA Soft RAID",
       "prs":	"3675",
@@ -87,81 +87,7 @@
       "prs":	"26250"
     }
   ]},
-  {"title": "Hetzner", "items":[
-    {
-      "opt":	"[Hetzner] 960 GB NVMe SSD Datacenter Edition",
-      "prs":	"1785"
-    },
-    {
-      "opt":	"[Hetzner] 1.92 TB NVMe SSD Datacenter Edition",
-      "prs":	"2835"
-    },
-    {
-      "opt":	"[Hetzner] 3.84 TB NVMe SSD Datacenter Edition",
-      "prs":	"5040"
-    },
-    {
-      "opt":	"[Hetzner] 480 GB NVMe SSD 3D XPoint",
-      "prs":	"4935"
-    },
-    {
-      "opt":	"[Hetzner] 240 GB SATA SSD",
-      "prs":	"420"
-    },
-    {
-      "opt":	"[Hetzner] 500 GB SATA SSD",
-      "prs":	"630"
-    },
-    {
-      "opt":	"[Hetzner] 1 TB SATA SSD",
-      "prs":	"1155"
-    },
-    {
-      "opt":	"[Hetzner] 240 GB SATA SSD Datacenter Edition",
-      "prs":	"525"
-    },
-    {
-      "opt":	"[Hetzner] 480 GB SATA SSD Datacenter Edition",
-      "prs":	"735"
-    },
-    {
-      "opt":	"[Hetzner] 960 GB SATA SSD Datacenter Edition",
-      "prs":	"1260"
-    },
-    {
-      "opt":	"[Hetzner] 1.92 TB SATA SSD Datacenter Edition",
-      "prs":	"2310"
-    },
-    {
-      "opt":	"[Hetzner] 3.84 TB SATA SSD Datacenter Edition",
-      "prs":	"4620"
-    },
-    {
-      "opt":	"[Hetzner] 2 TB SATA Enterprise hard drive",
-      "prs":	"1050"
-    },
-    {
-      "opt":	"[Hetzner] 4 TB SATA Enterprise hard drive",
-      "prs":	"1365"
-    },
-    {
-      "opt":	"[Hetzner] 6 TB SATA Enterprise hard drive",
-      "prs":	"1575"
-    },
-    {
-      "opt":	"[Hetzner] 8 TB SATA Enterprise hard drive",
-      "prs":	"1890"
-    },
-    {
-      "opt":	"[Hetzner] 10 TB SATA Enterprise hard drive",
-      "prs":	"2100"
-    },
-    {
-      "opt":	"[Hetzner] 12 TB SATA Enterprise hard drive",
-      "prs":	"2835"
-    }
-  ]},
-  {"title": "OVH US2", "items":[
+  {"OVHUS2": "OVH US2", "items":[
     {
       "opt":	"2x 1TB SSD NVMe Soft RAID",
       "prs":	"2940"
@@ -187,7 +113,7 @@
       "prs":	"7035"
     }
   ]},
-	{"title": "OVH US3", "items":[
+	{"OVHUS3": "OVH US3", "items":[
 		{
 			"opt":	"2× 960GB SSD NVMe + 2× 6TB HDD SATA Soft RAID",
 			"prs":	"4095"

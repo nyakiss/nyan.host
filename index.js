@@ -29,6 +29,7 @@ app.engine('.hbs', exphbs({
 app.set('view engine', '.hbs');
 app.get('/',        (req, res) => res.redirect('/about'));
 app.get('/about',   (req, res) => res.render('about',   { about: data.about, links: data.links}));
+app.get('/hetzner',   (req, res) => res.render('hetzner',   { hetzner: data.hetzner}));
 app.use((req, res) => res.status(404).render('404'));
 app.use((err, req, res, next) => {
   console.error(err.stack);

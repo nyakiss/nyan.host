@@ -1,0 +1,20 @@
+
+{{#each hetzner}}
+	<ul class="rate">
+		{{#if title}}
+			<h2>{{title}}</h2>
+		{{else}}
+			<h2>{{d-title}}</h2>
+		{{/if}}
+		{{#each items}}<li>
+			<span class="cpu">{{cpu}}</span>
+			<span class="ram">{{ram}}</span>
+			<span class="rom">{{rom}}</span>
+			<span class="prs">{{prs}}₽</span>
+		</li>{{/each}}
+		{{#each d-items}}<li>
+			<span class="opt">{{opt}}</span>
+			<span class="prs">{{prs}}₽</span>
+		</li>{{/each}}
+	</ul>
+{{/each}}
